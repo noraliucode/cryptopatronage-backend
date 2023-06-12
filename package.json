@@ -1,0 +1,11 @@
+{
+  "name": "cryptopatronage_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "@types/node-cron": "^3.0.7",
+    "node-cron": "^3.0.2"
+  }
+}
